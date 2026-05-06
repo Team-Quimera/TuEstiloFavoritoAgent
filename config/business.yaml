@@ -1,16 +1,22 @@
 # Configuración del negocio — Generado por AgentKit
-# Cliente: Tu Estilo Favorito (óptica)
+# Cliente: Tu Estilo Favorito (marca premium de eyewear)
 
 negocio:
   nombre: "Tu Estilo Favorito"
-  rubro: "Óptica"
+  rubro: "Eyewear premium"
   descripcion: |
-    Óptica especializada en monturas de moda, lentes oftálmicos,
-    lentes de contacto, gafas de sol y exámenes de la vista.
-    Ofrecemos asesoría personalizada para encontrar el estilo
-    perfecto que combine con cada rostro y necesidad visual.
-  horario: "Lunes a Sábado de 10:00 AM a 7:00 PM"
-  ubicacion: "Por confirmar — actualizar en business.yaml"
+    Marca premium de eyewear. Ofrecemos monturas de acetato,
+    gafas de sol, lentes oftálmicos (monofocales y progresivos
+    en todas las gamas) con material CR-90, medición visual
+    profesional y asesoría personalizada de estilo.
+  horario: |
+    Lunes a Viernes: 9:00 AM a 12:00 PM y 2:00 PM a 7:00 PM
+    Sábados: 10:00 AM a 3:00 PM (horario continuo)
+    Domingos: cerrado
+  ubicacion: |
+    Calle Gustavo Parada #300, Condominio Patujú,
+    planta baja, local 2 — Zona Zoológico, Tercer Anillo Interno,
+    Santa Cruz de la Sierra, Bolivia
   telefono: "Por confirmar — actualizar en business.yaml"
 
 agente:

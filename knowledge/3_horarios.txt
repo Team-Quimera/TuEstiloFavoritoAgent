@@ -1,0 +1,16 @@
+HORARIOS DE ATENCION
+
+Lunes a Viernes:
+  - 9:00 AM a 12:00 PM (medio dia)
+  - 2:00 PM a 7:00 PM
+  (cerramos al medio dia entre 12:00 y 14:00)
+
+Sabados:
+  - 10:00 AM a 3:00 PM (HORARIO CONTINUO, no cerramos al medio dia)
+
+Domingos: CERRADO
+
+NOTA AL AGENTE:
+Cuando alguien pregunte "estan abiertos ahora" responde con el horario
+completo y, si tienes acceso a la hora actual, evalua si esta dentro
+del rango. Si no, simplemente da el horario y deja que el cliente decida.

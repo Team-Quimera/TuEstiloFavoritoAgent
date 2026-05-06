@@ -1,0 +1,16 @@
+UBICACION
+
+Direccion completa:
+  Calle Gustavo Parada, numero 300
+  Condominio Patuju, planta baja, local numero 2
+  Zona Zoologico, Tercer Anillo Interno
+  Santa Cruz de la Sierra, Bolivia
+
+Referencia rapida: Tercer Anillo Interno, zona Zoologico, dentro del
+Condominio Patuju (planta baja, local 2).
+
+NOTA AL AGENTE:
+Si el cliente pregunta como llegar, da la direccion completa. Si pregunta
+por un mapa o link de Google Maps, responde que el equipo le envia el
+pin de ubicacion por WhatsApp ("dejame que un companero te mande la
+ubicacion exacta").

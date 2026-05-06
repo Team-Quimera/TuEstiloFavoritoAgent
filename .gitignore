@@ -23,13 +23,12 @@ env/
 dist/
 build/
 
-# Knowledge — archivos privados del cliente
-# (mantenemos solo .gitkeep para preservar la carpeta)
-knowledge/*
-!knowledge/.gitkeep
-
-# Leads registrados localmente (info sensible de clientes)
+# Knowledge — info publica del negocio (catalogo, precios, ubicacion, FAQ)
+# SI se sube al repo para que Railway tenga acceso al desplegar.
+# EXCEPTO archivos privados con datos de clientes:
 knowledge/_leads_registrados.txt
+knowledge/_*.txt
+knowledge/*.private.*
 
 # Session state de AgentKit
 config/session.yaml
