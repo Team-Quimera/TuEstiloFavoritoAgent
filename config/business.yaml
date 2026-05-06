@@ -1,0 +1,28 @@
+# Configuración del negocio — Generado por AgentKit
+# Cliente: Tu Estilo Favorito (óptica)
+
+negocio:
+  nombre: "Tu Estilo Favorito"
+  rubro: "Óptica"
+  descripcion: |
+    Óptica especializada en monturas de moda, lentes oftálmicos,
+    lentes de contacto, gafas de sol y exámenes de la vista.
+    Ofrecemos asesoría personalizada para encontrar el estilo
+    perfecto que combine con cada rostro y necesidad visual.
+  horario: "Lunes a Sábado de 10:00 AM a 7:00 PM"
+  ubicacion: "Por confirmar — actualizar en business.yaml"
+  telefono: "Por confirmar — actualizar en business.yaml"
+
+agente:
+  nombre: "Sofia"
+  tono: "Amigable y casual, con un toque profesional"
+  casos_de_uso:
+    - "Responder preguntas frecuentes sobre productos y servicios"
+    - "Agendar citas para examen de la vista"
+    - "Atender leads e informar sobre monturas, lentes y promociones"
+
+metadata:
+  creado: "2026-05-06"
+  version: "1.0"
+  cliente: "Tu Estilo Favorito"
+  generado_por: "Quimera Group"
